@@ -50,7 +50,7 @@
         </a>
     </p>
 
-    <h2 align="left">Connect with me:</h2>
+ <h2 align="left">Connect with me:</h2>
     <p align="left">
         <a href="https://linkedin.com/in/akanksha-singh-45b2a7268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-singh-45b2a7268" height="30" width="40" /></a>
         </p>
